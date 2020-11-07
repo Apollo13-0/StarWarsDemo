@@ -1,13 +1,11 @@
 package demo.starwars;
 
-import com.fasterxml.jackson.core.JsonParser;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import demo.starwars.dto.ApiResponse;
 import demo.starwars.dto.People;
 import org.apache.hc.client5.http.fluent.Content;
 import org.apache.hc.client5.http.fluent.Request;
-import org.apache.hc.client5.http.fluent.Response;
 
 import java.io.IOException;
 
