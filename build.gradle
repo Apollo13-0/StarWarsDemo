@@ -1,0 +1,31 @@
+
+plugins{
+    id "java"
+}
+
+sourceSets {
+    main.java.srcDir "src/Main"
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+
+    compile "org.apache.httpcomponents.client5:httpclient5-parent:5.0.3"
+    compile "org.slf4j:slf4j-api:1.7.9"
+    compile "com.fasterxml.jackson.core:jackson-core:2.11.1"
+    compile "com.fasterxml.jackson.core:jackson-databind:2.11.1"
+    compile "com.fasterxml.jackson.core:jackson-annotations:2.11.1"
+    testCompile "ch.qos.logback:logback-classic:1.2.3"
+    compile "ch.qos.logback:logback-core:1.2.3"
+
+}
+
+jar {
+    from configurations.compile.collect { zipTree it }
+    manifest.attributes "Main-Class": "demo.starwars.Main"
+}
+
+
