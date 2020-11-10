@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2dfaa883-d585-4626-935c-743912f086ba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ant.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/jackson.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sl4j.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StarWarsDemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/starwars/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/demo/starwars/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/starwars/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/starwars/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/starwars/dto/ApiResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/starwars/dto/People.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="structureMaven" />
+                    <option name="lastUsedInstant" value="1604969775" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1604957548" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="f8e6ea1a-73e3-4252-8b7b-0d9d1ff1d057" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jykHHlC2gG4syNLW3QyLTOfnDC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="ToolWindowUML design tool window.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/main/java/demo/starwars" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15429688" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\carlo\Desktop\Cosas de AED1\StarWarsDemo\src" />
+      <recent name="C:\Users\carlo\Desktop\Cosas de AED1\StarWarsDemo\src\main" />
+      <recent name="C:\Users\carlo\Desktop\Cosas de AED1\StarWarsDemo\src\main\java" />
+      <recent name="C:\Users\carlo\Desktop\Cosas de AED1\StarWarsDemo" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\carlo\Desktop\Cosas de AED1\StarWarsDemo" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn compile" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AntRunConfiguration" singleton="false">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.starwars.Main" />
+      <module name="StarWarsDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.starwars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2dfaa883-d585-4626-935c-743912f086ba" name="Default Changelist" comment="" />
+      <created>1604783629999</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604783629999</updated>
+      <workItem from="1604783632677" duration="788000" />
+      <workItem from="1604784490414" duration="4425000" />
+      <workItem from="1604799083859" duration="3070000" />
+      <workItem from="1604815135185" duration="3074000" />
+      <workItem from="1604847584023" duration="7000" />
+      <workItem from="1604953791034" duration="403000" />
+      <workItem from="1604954211901" duration="864000" />
+      <workItem from="1604955134981" duration="1731000" />
+      <workItem from="1604963274451" duration="284000" />
+      <workItem from="1604969729072" duration="369000" />
+      <workItem from="1604970175586" duration="1372000" />
+      <workItem from="1604972618235" duration="621000" />
+      <workItem from="1604973255897" duration="3678000" />
+      <workItem from="1604977052990" duration="1423000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="291" y="99" key="#Project_Structure" timestamp="1604977565409">
+      <screen x="0" y="0" width="1620" height="1050" />
+    </state>
+    <state x="291" y="99" key="#Project_Structure/0.0.1620.1050@0.0.1620.1050" timestamp="1604977565409" />
+    <state x="373" y="102" width="785" height="894" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604978476829">
+      <screen x="0" y="0" width="1620" height="1050" />
+    </state>
+    <state x="373" y="102" width="785" height="894" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1620.1050@0.0.1620.1050" timestamp="1604978476829" />
+    <state x="616" y="241" key="#com.intellij.ide.util.MemberChooser" timestamp="1604816952071">
+      <screen x="0" y="0" width="1620" height="1050" />
+    </state>
+    <state x="616" y="241" key="#com.intellij.ide.util.MemberChooser/0.0.1620.1050@0.0.1620.1050" timestamp="1604816952071" />
+    <state x="437" y="175" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1604954880606">
+      <screen x="0" y="0" width="1620" height="1050" />
+    </state>
+    <state x="437" y="175" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1620.1050@0.0.1620.1050" timestamp="1604954880606" />
+    <state x="575" y="380" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1604817336274">
+      <screen x="0" y="0" width="1620" height="1050" />
+    </state>
+    <state x="575" y="380" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1620.1050@0.0.1620.1050" timestamp="1604817336274" />
+    <state x="93" y="93" width="1433" height="863" key="DiffContextDialog" timestamp="1604958370785">
+      <screen x="0" y="0" width="1620" height="1050" />
+    </state>
+    <state x="93" y="93" width="1433" height="863" key="DiffContextDialog/0.0.1620.1050@0.0.1620.1050" timestamp="1604958370785" />
+    <state x="567" y="268" key="FileChooserDialogImpl" timestamp="1604976913529">
+      <screen x="0" y="0" width="1620" height="1050" />
+    </state>
+    <state x="567" y="268" key="FileChooserDialogImpl/0.0.1620.1050@0.0.1620.1050" timestamp="1604976913529" />
+    <state width="1578" height="269" key="GridCell.Tab.0.bottom" timestamp="1604978442108">
+      <screen x="0" y="0" width="1620" height="1050" />
+    </state>
+    <state width="1578" height="269" key="GridCell.Tab.0.bottom/0.0.1620.1050@0.0.1620.1050" timestamp="1604978442108" />
+    <state width="1578" height="269" key="GridCell.Tab.0.center" timestamp="1604978442108">
+      <screen x="0" y="0" width="1620" height="1050" />
+    </state>
+    <state width="1578" height="269" key="GridCell.Tab.0.center/0.0.1620.1050@0.0.1620.1050" timestamp="1604978442108" />
+    <state width="1578" height="269" key="GridCell.Tab.0.left" timestamp="1604978442106">
+      <screen x="0" y="0" width="1620" height="1050" />
+    </state>
+    <state width="1578" height="269" key="GridCell.Tab.0.left/0.0.1620.1050@0.0.1620.1050" timestamp="1604978442106" />
+    <state width="1578" height="269" key="GridCell.Tab.0.right" timestamp="1604978442108">
+      <screen x="0" y="0" width="1620" height="1050" />
+    </state>
+    <state width="1578" height="269" key="GridCell.Tab.0.right/0.0.1620.1050@0.0.1620.1050" timestamp="1604978442108" />
+    <state x="342" y="180" key="Maven.ArtifactSearchDialog" timestamp="1604978149115">
+      <screen x="0" y="0" width="1620" height="1050" />
+    </state>
+    <state x="342" y="180" key="Maven.ArtifactSearchDialog/0.0.1620.1050@0.0.1620.1050" timestamp="1604978149115" />
+    <state x="291" y="102" key="SettingsEditor" timestamp="1604978132588">
+      <screen x="0" y="0" width="1620" height="1050" />
+    </state>
+    <state x="291" y="102" key="SettingsEditor/0.0.1620.1050@0.0.1620.1050" timestamp="1604978132588" />
+    <state x="625" y="303" key="chooseDestDirectoryDialog" timestamp="1604817278034">
+      <screen x="0" y="0" width="1620" height="1050" />
+    </state>
+    <state x="625" y="303" key="chooseDestDirectoryDialog/0.0.1620.1050@0.0.1620.1050" timestamp="1604817278034" />
+    <state x="93" y="93" width="1433" height="863" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1604958370785">
+      <screen x="0" y="0" width="1620" height="1050" />
+    </state>
+    <state x="93" y="93" width="1433" height="863" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1620.1050@0.0.1620.1050" timestamp="1604958370785" />
+    <state x="93" y="93" width="1433" height="863" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1604954583978">
+      <screen x="0" y="0" width="1620" height="1050" />
+    </state>
+    <state x="93" y="93" width="1433" height="863" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1620.1050@0.0.1620.1050" timestamp="1604954583978" />
+    <state x="533" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1604978055973">
+      <screen x="0" y="0" width="1620" height="1050" />
+    </state>
+    <state x="533" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1620.1050@0.0.1620.1050" timestamp="1604978055973" />
+    <state x="236" y="103" key="new project wizard" timestamp="1604976926040">
+      <screen x="0" y="0" width="1620" height="1050" />
+    </state>
+    <state x="236" y="103" key="new project wizard/0.0.1620.1050@0.0.1620.1050" timestamp="1604976926040" />
+    <state x="65" y="248" width="672" height="677" key="run.anything.popup" timestamp="1604977933352">
+      <screen x="0" y="0" width="1620" height="1050" />
+    </state>
+    <state x="65" y="248" width="672" height="677" key="run.anything.popup/0.0.1620.1050@0.0.1620.1050" timestamp="1604977933352" />
+    <state x="473" y="228" width="672" height="678" key="search.everywhere.popup" timestamp="1604970781510">
+      <screen x="0" y="0" width="1620" height="1050" />
+    </state>
+    <state x="473" y="228" width="672" height="678" key="search.everywhere.popup/0.0.1620.1050@0.0.1620.1050" timestamp="1604970781510" />
+  </component>
+</project>

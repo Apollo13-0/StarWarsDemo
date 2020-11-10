@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="StartWarsDemo" />
         <module name="StarWarsDemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="StarWarsDemo" target="1.5" />
+      <module name="StartWarsDemo" target="1.5" />
+      <module name="StarWarsDemo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
